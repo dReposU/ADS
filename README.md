@@ -8,7 +8,7 @@ Puedes buscar el archivo en el repo y copiar el URL del buscador.
 
 **Ejemplo:**
 ```
-https://github.com/dReposU/ADS/blob/main/Sem_2/01_Uso_de_NLTK_en_Python.ipynb
+https://github.com/dReposU/ADS/blob/main/Sem_02/01_Uso_de_NLTK_en_Python.ipynb
 ->
-https://colab.research.google.com/github/dReposU/ADS/blob/main/Sem_2/01_Uso_de_NLTK_en_Python.ipynb
+https://colab.research.google.com/github/dReposU/ADS/blob/main/Sem_02/01_Uso_de_NLTK_en_Python.ipynb
 ```
